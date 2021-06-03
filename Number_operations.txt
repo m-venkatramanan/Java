@@ -1,0 +1,4 @@
+1.Print a Number
+2.Reverse a Number 
+3.Separate a two number
+4.Palindrom Program
