@@ -1,4 +1,16 @@
 package learning;
+/*
+ * Split a number program
+ * 1.Sample Input :00
+ * output       :0 0
+ * 
+ * 2.Input:01
+ *   output:0 1
+ * 
+ * 3.Input:123
+ *   Output:1 2 3
+ * 
+ * */
 import java.util.*;
 public class Number_Separation {
 
