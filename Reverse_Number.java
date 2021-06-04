@@ -38,7 +38,7 @@ public class Reverse_Number {
 			}
 			for(int x=0;x<length;x++)
 			{
-				System.out.print(result[x]+" ");
+				System.out.print(result[x]);
 			}
 		}
 		}
